@@ -1,4 +1,4 @@
-:alphabet-yellow-h::alphabet-yellow-e::alphabet-yellow-y::alphabet-yellow-exclamation:
+:alphabet-yellow-h: :alphabet-yellow-e: :alphabet-yellow-y: :alphabet-yellow-exclamation:  
 [Link to my CV](https://github.com/mat-diak/githubCV)
 
 <!--
