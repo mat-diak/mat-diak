@@ -1,5 +1,6 @@
-:alphabet-yellow-h: :alphabet-yellow-e: :alphabet-yellow-y: :alphabet-yellow-exclamation:  
-[Link to my CV](https://github.com/mat-diak/githubCV)
+🌊 Hey  
+
+💾 [Link to my CV](https://github.com/mat-diak/githubCV)
 
 <!--
 **mat-diak/mat-diak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
