@@ -1,5 +1,3 @@
-🌊 Hey  
-
 💾 [Link to my CV](https://github.com/mat-diak/githubCV)
 
 <!--
