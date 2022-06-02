@@ -4,10 +4,11 @@
 
 | Name                         | Description       | Tech/tools        | Timeframe |
 | ---------------------------- | ----------------- | ----------------- | --------- |
-| [Tidbits-server](https://github.com/mat-diak/tidbits-server) | rest API for Tidbits client | Express, Node, MongoDB, Jest  | 10 days |
-| [Tidbits-client](https://github.com/mat-diak/tidbits-client) | client side for Tidbits server | React, CSS, Bootstrap, JWT, Cypress | 10 days |
-| [Faicebuk](https://github.com/mat-diak/Faicebuk) | social media app | Ruby on Rails, CSS, Bootstrap, Devise, RSpec & Capybara | 10 days
-| [MakersBnB](https://github.com/mat-diak/MakersBnb) | room renting app | Ruby with Sinatra, CSS, RSpec & Capybara | 5 days
+| [Books](https://github.com/mat-diak/books) | Frontend using Penguin Random House books api | React, Redux, styled-components(CSS) |
+| [Tidbits-server](https://github.com/mat-diak/tidbits-server) | rest API for Tidbits client | Express, Node, MongoDB, Jest  |
+| [Tidbits-client](https://github.com/mat-diak/tidbits-client) | client side for Tidbits server | React, CSS, Bootstrap, JWT, Cypress |
+| [Faicebuk](https://github.com/mat-diak/Faicebuk) | social media app | Ruby on Rails, CSS, Bootstrap, Devise, RSpec & Capybara |
+| [MakersBnB](https://github.com/mat-diak/MakersBnb) | room renting app | Ruby with Sinatra, CSS, RSpec & Capybara |
 
 <!--
 **mat-diak/mat-diak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
