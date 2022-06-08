@@ -4,7 +4,7 @@
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [Books](https://github.com/mat-diak/books) | Frontend using Penguin Random House books api | React, Redux, styled-components(CSS) |
+| [Books](https://github.com/mat-diak/books) | Frontend using a rest API | React, Redux, styled-components(CSS) |
 | [Tidbits-server](https://github.com/mat-diak/tidbits-server) | rest API for Tidbits client | Express, Node, MongoDB, Jest  |
 | [Tidbits-client](https://github.com/mat-diak/tidbits-client) | client side for Tidbits server | React, CSS, Bootstrap, JWT, Cypress |
 | [Faicebuk](https://github.com/mat-diak/Faicebuk) | social media app | Ruby on Rails, CSS, Bootstrap, Devise, RSpec & Capybara |
