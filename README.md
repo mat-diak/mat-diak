@@ -1,4 +1,4 @@
-💾 [Link to my CV](https://github.com/mat-diak/githubCV)
+💾 [Link to my CV](https://www.linkedin.com/in/mateusz-diak/)
 
 ## Projects
 
